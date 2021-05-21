@@ -1,0 +1,22 @@
+#main {
+  /*  */
+}
+
+#survey-form {
+  display: flex;
+  flex-direction: column;
+
+  width: 300px;
+}
+
+.form-item {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 15px;
+}
+
+.sub-item {
+  display: flex;
+  flex-direction: row;
+}
